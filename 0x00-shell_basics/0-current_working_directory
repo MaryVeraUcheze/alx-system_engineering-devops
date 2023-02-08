@@ -1,0 +1,4 @@
+#!bin/bash
+#command to see current directory
+echo "pwd"
+
