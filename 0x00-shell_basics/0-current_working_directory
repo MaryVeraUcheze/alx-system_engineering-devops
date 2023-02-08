@@ -1,4 +1,2 @@
 #!bin/bash
-#command to see current directory
-echo "pwd"
-
+echo "alx-system_engineering-develops"
