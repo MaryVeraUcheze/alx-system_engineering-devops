@@ -1,2 +1,2 @@
-#!bin/bash
-echo "alx-system_engineering-develops"
+#!/bin/bash
+pwd
