@@ -1,2 +1,1 @@
-# My project
-## Hello world script
+0x02-shell_redirectiona readme
