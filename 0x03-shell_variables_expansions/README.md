@@ -1,0 +1,2 @@
+#My project
+## Shell variables
